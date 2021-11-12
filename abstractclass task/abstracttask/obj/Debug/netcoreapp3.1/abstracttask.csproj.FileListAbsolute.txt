@@ -1,0 +1,12 @@
+/Users/admin/Projects/abstracttask/abstracttask/bin/Debug/netcoreapp3.1/abstracttask.deps.json
+/Users/admin/Projects/abstracttask/abstracttask/bin/Debug/netcoreapp3.1/abstracttask.runtimeconfig.json
+/Users/admin/Projects/abstracttask/abstracttask/bin/Debug/netcoreapp3.1/abstracttask.runtimeconfig.dev.json
+/Users/admin/Projects/abstracttask/abstracttask/bin/Debug/netcoreapp3.1/abstracttask.dll
+/Users/admin/Projects/abstracttask/abstracttask/bin/Debug/netcoreapp3.1/abstracttask.pdb
+/Users/admin/Projects/abstracttask/abstracttask/obj/Debug/netcoreapp3.1/abstracttask.AssemblyInfoInputs.cache
+/Users/admin/Projects/abstracttask/abstracttask/obj/Debug/netcoreapp3.1/abstracttask.AssemblyInfo.cs
+/Users/admin/Projects/abstracttask/abstracttask/obj/Debug/netcoreapp3.1/abstracttask.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/abstracttask/abstracttask/obj/Debug/netcoreapp3.1/abstracttask.dll
+/Users/admin/Projects/abstracttask/abstracttask/obj/Debug/netcoreapp3.1/abstracttask.pdb
+/Users/admin/Projects/abstracttask/abstracttask/obj/Debug/netcoreapp3.1/abstracttask.genruntimeconfig.cache
+/Users/admin/Projects/abstracttask/abstracttask/obj/Debug/netcoreapp3.1/abstracttask.csproj.AssemblyReference.cache

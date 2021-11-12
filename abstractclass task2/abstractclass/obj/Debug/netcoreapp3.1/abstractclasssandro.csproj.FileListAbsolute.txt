@@ -1,0 +1,12 @@
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/bin/Debug/netcoreapp3.1/abstractclasssandro.deps.json
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/bin/Debug/netcoreapp3.1/abstractclasssandro.runtimeconfig.json
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/bin/Debug/netcoreapp3.1/abstractclasssandro.runtimeconfig.dev.json
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/bin/Debug/netcoreapp3.1/abstractclasssandro.dll
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/bin/Debug/netcoreapp3.1/abstractclasssandro.pdb
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/obj/Debug/netcoreapp3.1/abstractclasssandro.AssemblyInfoInputs.cache
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/obj/Debug/netcoreapp3.1/abstractclasssandro.AssemblyInfo.cs
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/obj/Debug/netcoreapp3.1/abstractclasssandro.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/obj/Debug/netcoreapp3.1/abstractclasssandro.dll
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/obj/Debug/netcoreapp3.1/abstractclasssandro.pdb
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/obj/Debug/netcoreapp3.1/abstractclasssandro.genruntimeconfig.cache
+/Users/admin/Projects/abstractclasssandro/abstractclasssandro/obj/Debug/netcoreapp3.1/abstractclasssandro.csproj.AssemblyReference.cache
